@@ -14,7 +14,7 @@ A flutter Windows project that will genrate pdf Invoice of data provided by user
 ![App Screenshot](https://github.com/Smart773/Alove-Vera-invoice-gen/blob/master/screenshots/homepage.jpg)
 
 - ### Home Screen Data
-![App Screenshot](httpshttps://github.com/Smart773/Alove-Vera-invoice-gen/blob/master/screenshots/homepagewithdata.jpg)
+![App Screenshot](https://github.com/Smart773/Alove-Vera-invoice-gen/blob/master/screenshots/homepagewithdata.jpg)
 
 - ### Pdf Output 
 ![App Screenshot](https://github.com/Smart773/Alove-Vera-invoice-gen/blob/master/screenshots/invoicepdf.jpg)
